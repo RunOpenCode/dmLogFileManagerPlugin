@@ -1,0 +1,9 @@
+default:
+  dmLogFileManagerPlugin:
+    extensions:
+      - log
+    locations:
+      Production:
+        - %SF_ROOT_DIR%/data/dm/log
+      Development:
+        - %SF_LOG_DIR%

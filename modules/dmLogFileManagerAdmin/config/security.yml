@@ -1,0 +1,8 @@
+all:
+  credentials: see_log
+cleanFile:
+  credentials: log
+cleanAll:
+  credentials: log
+batchClean:
+  credentials: log

@@ -1,0 +1,7 @@
+System:
+
+  Log:
+
+    dmLogFileManager:
+      name:                 Files
+      front:                false

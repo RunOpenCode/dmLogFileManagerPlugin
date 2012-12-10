@@ -1,0 +1,5 @@
+indexSuccess:
+
+  stylesheets:  [ admin.dataTable, admin.form, dmLogFileManagerPlugin.default ]
+
+  javascripts:  [ lib.dataTable, dmLogFileManagerPlugin.launch ]

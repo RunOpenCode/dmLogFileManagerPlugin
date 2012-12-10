@@ -1,0 +1,11 @@
+parameters:
+
+  log_file_cleaner.class:       dmLogFileCleanerService
+  log_file_cleaner.options:     []
+
+services:
+
+  log_file_cleaner:
+    class:                %log_file_cleaner.class%
+    shared:               false
+    arguments:            [ @event_log, %log_file_cleaner.options% ]

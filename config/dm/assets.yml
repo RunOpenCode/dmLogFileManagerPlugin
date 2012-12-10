@@ -1,0 +1,7 @@
+css:
+  dmLogFileManagerPlugin:
+    default: dmLogFileManagerPlugin
+    
+js:
+  dmLogFileManagerPlugin:
+    launch: dmLogFileManagerPlugin.min
